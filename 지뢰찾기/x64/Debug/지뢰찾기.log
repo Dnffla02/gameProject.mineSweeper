@@ -1,3 +1,0 @@
-﻿  지뢰찾기.cpp
-C:\Users\user\Desktop\지뢰찾기\지뢰찾기.cpp(174): warning C4717: 'tile::getEvent': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
-  지뢰찾기.vcxproj -> C:\Users\user\Desktop\지뢰찾기\x64\Debug\지뢰찾기.exe
